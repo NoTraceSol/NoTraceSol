@@ -106,7 +106,7 @@ const link = `https://notracesol.xyz/pay#m=${bs58encode(meta.pub)}`
 
 ## ⌬ &nbsp; references
 
-- [ERC-5564 — Stealth Address Standard](https://eips.ethereum.org/EIPS/eip-5564)
+- [ERC-5564 — Stealth Address Standard (Ethereum)](https://eips.ethereum.org/EIPS/eip-5564)
 - [Umbra Cash — Stealth on Ethereum](https://app.umbra.cash)
 - [Monero stealth addresses](https://www.getmonero.org/resources/moneropedia/stealthaddress.html)
 - [@noble/curves — audited curve crypto](https://github.com/paulmillr/noble-curves)
