@@ -1,5 +1,7 @@
 <div align="center">
 
+<p align="center"><sub>built with <a href="https://github.com/paulmillr/noble-curves">/curves</a> · open-sourced under <a href="https://github.com/NoTraceSol/stealth-sdk/blob/main/LICENSE">MIT</a></sub></p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:050505,100:d8f96a&height=240&section=header&text=NoTrace&fontSize=88&fontColor=ffffff&fontAlignY=38&desc=stealth%20addresses%20on%20solana&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
 
 <a href="https://github.com/NoTraceSol">
@@ -112,6 +114,8 @@ const link = `https://notracesol.xyz/pay#m=${bs58encode(meta.pub)}`
 <br/>
 
 <div align="center">
+
+<p align="center"><sub>built with <a href="https://github.com/paulmillr/noble-curves">/curves</a> · open-sourced under <a href="https://github.com/NoTraceSol/stealth-sdk/blob/main/LICENSE">MIT</a></sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8f96a,50:050505,100:050505&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
